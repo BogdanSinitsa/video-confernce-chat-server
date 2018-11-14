@@ -1,0 +1,9 @@
+{
+  "name": "chat-server",
+  "script": "main.js",
+  "watch": true,
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "node_args": "--max-old-space-size=4096"
+}

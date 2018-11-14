@@ -1,0 +1,10 @@
+{
+  "port": 3446,
+  "start-workers-port": 3360,
+  "development": {
+    "siteURL": "http://localhost:8082/"
+  },
+  "production": {
+     "siteURL": "http://api.test-accounting.com/"
+  }
+}
